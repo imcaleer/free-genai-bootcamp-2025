@@ -13,4 +13,12 @@
 - the table of vocabulary should only have the following columns: Japanese, Romaji, English
 - Do not use Romaji except in the table of vocabulary
 
-## Student Input: Bears are at the door, did you leave the garbage out?
+## Examples
+
+Here are some examples of user input and assistant output:
+
+<example>
+    <user:input>
+        Bears are at the door, did you leave the garbage out?
+    </user:input>
+
